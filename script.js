@@ -48,7 +48,7 @@ contactForm.addEventListener('submit', (e) => {
     + `Mohon info harga dan estimasi waktu pengerjaan. Terima kasih!`;
 
   // Ganti nomor di bawah dengan nomor WhatsApp Anda (format: 62 + nomor tanpa 0 di depan)
-  const nomorWhatsApp = '6281234567890';
+  const nomorWhatsApp = '6281939634295';
 
   // Buka WhatsApp dengan pesan yang sudah disusun
   window.open(`https://wa.me/${nomorWhatsApp}?text=${teksPesan}`, '_blank');
